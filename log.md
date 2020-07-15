@@ -6,6 +6,8 @@
 
 ### Day 1: July 14, 2020
 
+**Today's Progress**:
+
 Solve the question 1: 
 
 Description:
@@ -30,3 +32,11 @@ Input: 42145 Output: 54421
 Input: 145263 Output: 654321
 
 Input: 123456789 Output: 987654321
+
+### Day 2: July 15, 2020
+
+**Today's Progress**: Work on MoviesCollectionApp Project based on Asp.Net Core.
+
+### Day 3: July 16, 2020
+
+**Today's Progress**: Work on MoviesCollectionApp Project based on Asp.Net Core. https://github.com/saloniagrawal25/MoviesCollectionApp
